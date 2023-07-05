@@ -17,7 +17,18 @@ Then you are redirected to choose the accessories you want to fit in the car, yo
 ![Alt Text](READMEimgs/Picture2.png)
 
 
+3.	Reservation Summary
+After that you are presented with the reservation summary screen That shows you the details of the cars you have chosen in addition to any additional accessories chosen from the accessories panel.
+•	You are prompted to enter Dummy Payment info which are all required, the billing address is required to insert to the invoice. Press confirm to move on to the next page.
+
+
+
 ![Alt Text](READMEimgs/Picture3.png)
+
+
+4.	Invoice
+After finishing the reservation Process the invoice page containing the unique reservation code for the user to check his reservation and edit it if possible.
+
 
 
 ![Alt Text](READMEimgs/Picture4.png)
