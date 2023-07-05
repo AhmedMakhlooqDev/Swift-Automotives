@@ -2,7 +2,11 @@
  Website deomnstrating backend skills (README WORK IN PROGRESS)
  1.	Index Page:
 Plays the roll of the main page of the website, where the user can reserve a car with searching criteria. The user must enter all fields except the car model field
+
+
 ![Alt Text](READMEimgs/Picture1.png)
+
+
 Note: There are 3 car types : Sedan, SUV and Sport
 
 Choose the car of your liking and press submit:
